@@ -1,0 +1,5 @@
+transformers
+nltk
+tensorflow
+streamlit
+tf-keras
